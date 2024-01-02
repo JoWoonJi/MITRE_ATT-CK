@@ -6,7 +6,6 @@ GitHub repository
 
 [https://github.com/JoWoonJi/MITRE_ATT-CK](https://github.com/JoWoonJi/MITRE_ATT-CK)
 
-링크 [JoWoonJi/MITRE_ATT-CK (github.com)](https://github.com/JoWoonJi/MITRE_ATT-CK)
 
 ---
 
