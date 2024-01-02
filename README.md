@@ -11,7 +11,7 @@ GitHub repository
 ---
 
 <aside>
-💡 CONTENTS
+💡 4조
 
 </aside>
 
@@ -38,7 +38,14 @@ GitHub repository
 
 - 유데미의 강의를 토대로 실습 및 매핑  **[MITRE ATT&CK Framework Essentials](https://www.udemy.com/course/mitre-attck-framework-essentials/)**
 
-![1.SQL Injection test admin 입력하고 로그인해 보기.jpg](MITRE%20ATT&CK%208693fc506c92432cb42e714eb800c980/1.SQL_Injection_test_admin_%25EC%259E%2585%25EB%25A0%25A5%25ED%2595%2598%25EA%25B3%25A0_%25EB%25A1%259C%25EA%25B7%25B8%25EC%259D%25B8%25ED%2595%25B4_%25EB%25B3%25B4%25EA%25B8%25B0.jpg)
+![1](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/mapping.jpg)
+
+ATT&CK프레임 워크 기능 활용해서 lazarus group으로 매핑
+![1](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/lazarus_group.jpg)
+
+navigator에서 강의에서 소개한 layer 적용해보기(공격들의 위험도 분류)
+![1]([https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/mapping.jpg](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/navigator_application.jpg))
+
 
 ---
 
