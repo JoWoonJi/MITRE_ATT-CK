@@ -40,10 +40,12 @@ GitHub repository
 ![1](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/mapping.jpg)
 
 - ATT&CK프레임 워크 기능 활용해서 lazarus group으로 매핑
+- 
 ![1](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/lazarus_group.jpg)
 
 - navigator에서 강의에서 소개한 layer 적용해보기(공격들의 위험도 분류)
-![1]([https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/mapping.jpg](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/navigator_application.jpg))
+- 
+![1](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/navigator_application.jpg))
 
 
 ---
