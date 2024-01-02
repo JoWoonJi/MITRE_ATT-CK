@@ -40,29 +40,34 @@ GitHub repository
 ![1](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/mapping.jpg)
 
 - ATT&CK프레임 워크 기능 활용해서 lazarus group으로 매핑
-- 
+  
 ![1](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/lazarus_group.jpg)
 
 - navigator에서 강의에서 소개한 layer 적용해보기(공격들의 위험도 분류)
-- 
+  
 ![1](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/navigator_application.jpg))
 
 
 ---
 
+
 # #3. 침해사고 보고서에 해당되는 Tactic, Techniques 별 상세 Procedure 설명 및 정리
+
 
 **Initial Access**
 T1189 : Drive-by Compromise
 INISAFECrossWebEX를 사용 중인 사용자의 PC가 해당 사이트에 웹 브라우저로 접근하게 되면, INISAFECrossWebEXSvc.exe의 취약점에 의해 악성코드 배포 사이트에서 라자루스 악성코드(SCSKAppLink.dll)가 다운로드된 후 실행된다.
 
+
 **Privilege Escalation**
 T1068 : Exploitation for Privilege Escalation
 CVE-2021-26606 버퍼 오버플로우 취약점으로 원격에서 임의의 명령어를 전송하여 악성코드 감염 등의 피해를 유발할 수 있다.
 
+
 **Execution**
 T1047 : Windows Management Instrumentation
 라자루스 그룹은 WMI를 사용하여 원격 시스템의 MagicLine4NX를 호출하고 악성 스레드를 인젝션하는 것으로 확인
+
 
 **Lateral Movement**
 T1021.001 : Remote Services: Remote Desktop Protocol
@@ -71,6 +76,7 @@ T1021.001 : Remote Services: Remote Desktop Protocol
 
 T1021.004 : Remote Services: SSH
 공격자는 내부 네트워크에 존재하는 시스템들의 SSH 서버에 root 계정으로 로그인을 시도한다.
+
 
 **Defense Evasion**
 T1036 : Masquerading: Masquerade Task or Service
