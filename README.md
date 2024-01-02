@@ -29,7 +29,7 @@ GitHub repository
 - 곽경주 이사님께서 실시간 강의 때 소개해주신 라자루스 그룹의 침해 사고 보고서를 선정
 - [BYOVD 기법으로 백신 프로그램을 무력화하는 라자루스 공격 그룹의 악성코드 감염 사례 - ASEC BLOG (ahnlab.com)](https://asec.ahnlab.com/ko/40495/)
 - 정독 후 팀원끼리 과제에 대한 토론 및 방향 설정
-- 
+  
 
 ---
 
@@ -39,10 +39,10 @@ GitHub repository
 
 ![1](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/mapping.jpg)
 
-ATT&CK프레임 워크 기능 활용해서 lazarus group으로 매핑
+- ATT&CK프레임 워크 기능 활용해서 lazarus group으로 매핑
 ![1](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/lazarus_group.jpg)
 
-navigator에서 강의에서 소개한 layer 적용해보기(공격들의 위험도 분류)
+- navigator에서 강의에서 소개한 layer 적용해보기(공격들의 위험도 분류)
 ![1]([https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/mapping.jpg](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/navigator_application.jpg))
 
 
