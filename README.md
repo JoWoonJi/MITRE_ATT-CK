@@ -1,1 +1,0 @@
-# MITRE_ATT-CK
