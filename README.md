@@ -43,11 +43,11 @@ GitHub repository
   
 ![1](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/lazarus_group.jpg)
 
-- navigator에서 강의에서 소개한 layer 적용해보기(공격들의 위험도 분류)
+- navigator에서 강의에서 소개한 layer 적용해보기(공격들의 위험도 및 사용빈도 분류 https://github.com/TravisFSmith/mitre_attack)
   
 ![1](https://github.com/JoWoonJi/MITRE_ATT-CK/blob/main/img/navigator_application.jpg))
 
--https://github.com/TravisFSmith/mitre_attack
+
 
 ---
 
